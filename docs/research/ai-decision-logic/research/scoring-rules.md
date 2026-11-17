@@ -2,8 +2,8 @@
 issue: 20
 title: Правила подсчёта C-SSRS и HDRS-17 и как считать динамику
 date: 2026-10-25
-ticket: https://github.com/DenisSud/clinical-compass/issues/20
-parent_map: https://github.com/DenisSud/clinical-compass/issues/16
+ticket: https://github.com/densudk/clinical-compass/issues/20
+parent_map: https://github.com/densudk/clinical-compass/issues/16
 ---
 
 # HDRS-17, C-SSRS и динамика: что реально написано в КР
